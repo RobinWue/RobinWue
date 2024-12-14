@@ -1,19 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RobinWue.RobinWue" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Robin+Wübbenhorst!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo!+👋;+Ich+bin+Robin+Wübbenhorst!;" />
 </h1>
 
-<h3 align="center">I'm a coding student at Coding Bootcamps Europe</h3>
+<h3 align="center">Ich bin ein Coding-Student bei Coding Bootcamps Europe</h3>
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently attending a coding bootcamp
+ 🔭 Derzeit arbeite ich an spannenden Projekten im Rahmen meines Bootcamps.
  
- 🌱 I’m currently learning **HTML, CSS, Javascript, Vue.js**
+ 🌱 Ich lerne aktuell **HTML, CSS, JavaScript, Vue.js** und mehr.
 
- </div>
+ 📈 Meine Ziele: Die Entwicklung benutzerfreundlicher Software und die Vertiefung in **IT-Sicherheit** sowie **SAP-Entwicklung**.
+ 
+</div>
 
 <div align="center"> 
   <a href="mailto:robin.wuebbenhorst.coding@gmail.com">
@@ -26,18 +28,26 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Sprachen-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,vue.js" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,vue" /><br>
 </div>
 
-<br/>
 <hr/>
 
+<h2 align="center">🚀 Aktuelle Projekte</h2>
+<br/>
+<div align="center">
+  <ul>
+    <li><b>ToDo-App mit API-Integration:</b> Voll funktionsfähige ToDo-App mit API-Anbindung und responsivem Design.</li>
+    <li><b>Passwort-Manager:</b> Ein sicherer Passwort-Manager mit Verschlüsselung (in Entwicklung).</li>
+  </ul>
+</div>
 
+<hr/>
 
-
-
-
+<p align="center">
+    Dieses README ist auch auf <a href="README_EN.md">Englisch 🇬🇧</a> verfügbar.
+</p>
