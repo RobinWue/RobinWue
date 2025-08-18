@@ -4,12 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo!+👋;+Ich+bin+Robin+Wübbenhorst!;" />
 </h1>
 
-<h3 align="center">Ich bin ein Coding-Student bei Coding Bootcamps Europe</h3>
+<h3 align="center"></h3>
 <br/>
 
 <div align="center">
  
- 🔭 Derzeit arbeite ich an spannenden Projekten im Rahmen meines Bootcamps.
  
  🌱 Ich lerne aktuell **HTML, CSS, JavaScript, Vue.js** und mehr.
 
